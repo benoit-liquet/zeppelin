@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Remcontres R 2017 in Anglet"
+title: "Rencontres R 2017 in Anglet"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
@@ -56,8 +56,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
+heroTitle: "Anglet <typeout> 2017"
+eventDate: "June, 2017"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
